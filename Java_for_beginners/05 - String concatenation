@@ -1,0 +1,10 @@
+
+
+05 - String concatenation
+
+-It is forming a new string that is the combination of multiple strings
+
+"Hello World"				-> Hello World
+"Hello " + "World" 			-> Hello World
+"Hello" + " World"      	-> Hello World
+"Hello" + " " + "World" 	-> Hello World
