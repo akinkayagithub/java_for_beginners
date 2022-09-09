@@ -1,0 +1,23 @@
+
+
+03 - Documentation with comments
+
+-The comments may be single- line, multi-line, and documentation comments
+-The comments are optional and Java compiler ignores them during execution of the program
+
+• Single-line Comment: It starts with a pair of forwarding slash 
+	Example:
+	//This is a single-line comment
+
+• Multi-line Comment: It starts with a /* and ends with */. We write comments between these two symbols
+	Example:
+ 	/*
+ 		This is an example of 
+		multi-line comment
+	*/ 
+
+• Documentation Comment: It starts with the delimiter (/**) and ends with */
+	Example:
+ 	/**
+ 	* This is an example of documentation comment
+ 	*/
