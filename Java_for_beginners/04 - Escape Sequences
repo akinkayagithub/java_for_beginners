@@ -1,0 +1,21 @@
+
+
+04 - Escape Sequences
+
+• Java provides special codes, called escape sequences
+• They can be used to insert certain spacing and characters in the texts
+
+We will learn below Escape sequences (there are more)
+\n 		-> moves cursor to a new line
+\t 		-> inserts a tab (space)
+\" 		-> inserts a double quotation (")
+\\ 		-> inserts a backward slash (\)
+
+PRACTICE:
+	Java is a high-level, class-based, object-oriented programming 
+language that is designed to have as few implementation dependencies as possible. 
+
+	It is a general\purpose programming language intended to let 
+programmers write once, run anywhere "WORA", meaning that compiled Java 
+code can run on all platforms that support Java without the need to 
+recompile.
